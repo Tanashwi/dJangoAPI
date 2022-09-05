@@ -1,3 +1,3 @@
 # dJangoAPI
 
-![alt text](/frontend.png)
+![alt text](https://github.com/Tanashwi/dJangoAPI/blob/master/frontend.png)
